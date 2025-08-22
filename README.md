@@ -25,6 +25,6 @@
 <video src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fis-that-code&psig=AOvVaw3AnN5z-A_6A0CCH33ZjS7R&ust=1676375613176000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMCqjfi3kv0CFQAAAAAdAAAAABAE" loop muted autoplay></video>
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadali0666&label=Profile%10views&color=0e75b6&style=flat" alt="muhammadali0666" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadali0666&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadali0666" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
